@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(49, 150, 115);
+}
+
+.title-home{
+    text-align: center;
+    font-size: 50px;
+}
+
+.recipes{
+    font-size: 30px;
+}
+
+.title-pasta-salad{
+    text-align: center;
+    color: blue;
+}
